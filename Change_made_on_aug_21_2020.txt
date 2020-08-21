@@ -1,0 +1,10 @@
+Newly uploaded dataset (2020_08_21)
+
+GAM_2012-2017.7z
+GAM_input_2012-2017.csv
+GAM_output_2012-2017.xlsx
+clustered_PM25_data_2012-2017.xlsx
+
+Those newly added datasets correspond to the latest version of the manuscript.
+
+Reason of the change: In the latest version of manuscript, we took time average on the PM2.5 concentration and composition dataset between 2012 and 2017, instead of between 2000 and 2017 (in the previous version of the manuscript)
